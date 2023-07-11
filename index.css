@@ -55,7 +55,7 @@ h1{
     gap: 10px;
 }
 .main-image{
-    width: 25%;
+    width: 30%;
     margin-top: 30px;
 }
 .degree{
@@ -85,10 +85,10 @@ i.bi-wind, i.bi-water{
         gap: 10px;
     }
     h4{
-        font-size: 26px;
+        font-size: 32px;
     }
     h6{
-        font-size: 18px;
+        font-size: 24px;
     }
     .main-container{
         padding: 2rem;
