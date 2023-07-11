@@ -109,7 +109,7 @@ i.bi-wind, i.bi-water{
         margin-top: 106px;
     }
     .main-container{
-    width: 95vw
+    width: 100vw;
 }
 @media screen and (max-width: 390px){
     .main-container{
