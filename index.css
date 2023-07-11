@@ -108,6 +108,8 @@ i.bi-wind, i.bi-water{
     .humidity-windspeed{
         margin-top: 106px;
     }
+    .main-container{
+    width: 95vw
 }
 @media screen and (max-width: 390px){
     .main-container{
