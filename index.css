@@ -82,6 +82,7 @@ i.bi-wind, i.bi-water{
 @media screen and (orientation: landscape){
     .main-container{
         min-height: 100vh !important; 
+        width: 100vw;
     }
 }
 
