@@ -93,6 +93,8 @@ i.bi-wind, i.bi-water{
     .main-container{
         padding: 2rem;
     }
+    .degree{
+    font-size: 4.5rem;
 }
 @media screen and (max-width: 480px){
     input{
