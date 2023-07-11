@@ -79,6 +79,12 @@ i.bi-wind, i.bi-water{
     font-size: 40px;
 }
 
+@media screen and (orientation: landscape){
+    .main-container{
+        min-height: 100vh !important; 
+    }
+}
+
 @media screen and (max-width: 560px){
     .humidity-windspeed{
         margin-top: 78px;
