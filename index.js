@@ -10,6 +10,7 @@ async function weatherChecker(city){
   console.log(data);
   document.querySelector(".name").innerHTML = data.name;
   document.querySelector(".number").innerHTML = Math.round(data.main.temp);
+  document.querySelector(".main-image").src = `https://openweathermap.org/img/wn/${data.weather[0].icon}@2x.png`
   document.querySelector(".humid").innerHTML = data.main.humidity + "%";
   document.querySelector(".speed").innerHTML = data.wind.speed + "km/hr";
 }
